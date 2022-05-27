@@ -192,6 +192,7 @@ Object {
   "include": Array [
     "src/**/*.ts",
     "src/**/*.js",
+    "cypress.config.ts",
   ],
 }
 `;
